@@ -1,32 +1,36 @@
 {
-  "name": "nuxt-markdown-blog-starter",
+  "name": "joolr",
   "version": "1.0.0",
-  "author": "marinaaisa <marina@marinaaisa.com>",
+  "description": "My incredible Nuxt.js project",
+  "author": "Tritechta",
   "private": true,
-  "engines": {
-    "node": ">=8.0.0",
-    "npm": ">=5.0.0"
-  },
-  "dependencies": {
-    "@nuxtjs/style-resources": "^1.0.0",
-    "markdown-it": "^10.0.0",
-    "markdown-it-prism": "^2.0.3",
-    "normalize.css": "^8.0.1",
-    "nuxt": "^2.11.0",
-    "nuxt-i18n": "^6.4.1",
-    "nuxt-webfontloader": "^1.1.0",
-    "vue-lazyload": "^1.3.3"
-  },
   "scripts": {
     "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
     "generate": "nuxt generate",
-    "analyze": "nuxt build --analyze"
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@bazzite/nuxt-optimized-images": "^0.4.0",
+    "aos": "^3.0.0-beta.6",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
-    "frontmatter-markdown-loader": "^3.1.0",
-    "node-sass": "^4.13.0",
-    "responsive-loader": "^1.2.0",
-    "sass-loader": "^8.0.0",
-    "sharp": "^0.23.4"
+    "@nuxtjs/eslint-config": "^2.0.0",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "vue-jest": "^4.0.0-0"
   }
 }

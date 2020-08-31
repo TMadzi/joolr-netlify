@@ -2,7 +2,7 @@
   <div>
     <b-container fluid>
       <b-link to="/index">
-        <b-img src="~/assets/images/logo-2.svg/" alt="Joolr Logo" class="logo">
+        <b-img src="~/assets/images/logo-4.svg/" alt="Joolr Logo" class="logo">
         </b-img>
       </b-link>
       <div class="navi-toggle">
@@ -36,7 +36,7 @@ export default {
   }
 }
 </script>
-<style scoped>
+<style>
 html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -127,7 +127,7 @@ a:hover {
 }
 
 .menu-btn {
-  color: black;
+  color: white;
   background-color: transparent;
   border: none;
   transition: all 0.5s ease;
@@ -180,9 +180,11 @@ a:hover {
   color: #343a40;
   transition: all 0.5s ease;
 }
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 }
+
 /* Landscape */
 @media only screen and (orientation: landscape) {
   .nav {
@@ -198,6 +200,7 @@ a:hover {
     line-height: 1;
   }
 }
+
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   .navi-toggle {
