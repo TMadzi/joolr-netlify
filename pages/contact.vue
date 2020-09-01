@@ -10,7 +10,7 @@
             <h1 class="contact-text">
               We always have time for the things you put first.
             </h1>
-            <b-form class="contact-form" netlify>
+            <b-form class="contact-form" method="POST" netlify>
               <b-form-group
                 id="input-group-2"
                 label="First Name:"
