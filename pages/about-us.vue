@@ -4,10 +4,10 @@
       <b-container>
         <b-row>
           <b-col cols="12" lg="7">
-            <h1 class="about-heading">About Us</h1>
+            <h1 class="about-heading" data-aos="fade-up">About Us</h1>
             <b-img
               src="~/assets/images/about-img.png"
-              class="about-image"
+              class="about-image" data-aos="fade-up"
             ></b-img>
           </b-col>
           <b-col cols="12" lg="5" class="mt-2" data-aos="fade-up">
@@ -27,7 +27,7 @@
     </div>
     <div class="about-middle">
       <b-container>
-        <h1 class="vision-heading">Our Vision</h1>
+        <h1 class="vision-heading" data-aos="fade-up">Our Vision</h1>
         <p class="vision-text">
           To harness the power of creativity and technology to help African
           brands surpass expectations.
@@ -36,7 +36,7 @@
     </div>
     <div class="about-bottom">
       <b-container>
-        <div class="centered-div">
+        <div class="centered-div" data-aos="fade-up">
           <b-img
             src="~/assets/images/about-img-2.png"
             class="about-image-2"
