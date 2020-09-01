@@ -10,13 +10,13 @@
               class="about-image"
             ></b-img>
           </b-col>
-          <b-col cols="12" lg="5" class="mt-2">
+          <b-col cols="12" lg="5" class="mt-2" data-aos="fade-up">
             <p class="about-top-text">
               Jool'r is uniquely positioned to help you harness the power of
               technology and creativity to redefine how you market your
               business.
             </p>
-            <p class="about-bottom-text">
+            <p class="about-bottom-text" data-aos="fade-up">
               In a time of disruptive digital transformation and shifting market
               conditions, we provide you with the support you need to derive
               quantifiable business value from your marketing efforts.
@@ -43,7 +43,7 @@
           ></b-img>
         </div>
         <b-row class="mt-4 pt-4 mb-4 pb-4">
-          <b-col cols="12" lg="6" class="about-col">
+          <b-col cols="12" lg="6" class="about-col" data-aos="fade-up">
             <h4>1. We are not for everyone:</h4>
             <p>
               We understand that we are not the ideal partner for every business
@@ -51,7 +51,7 @@
               we are able to provide real-world benefits to the business.
             </p>
           </b-col>
-          <b-col cols="12" lg="6" class="about-col">
+          <b-col cols="12" lg="6" class="about-col" data-aos="fade-up">
             <h4>2. Clients as partners:</h4>
             <p>
               The best outputs are created when everyone operates as a single
@@ -59,7 +59,7 @@
               intentionally sit on the same side of the table as our clients.
             </p>
           </b-col>
-          <b-col cols="12" lg="6" class="about-col" data-aos="fade-left">
+          <b-col cols="12" lg="6" class="about-col" data-aos="fade-up">
             <h4>3. Creativity:</h4>
             <p>
               We breed and nurture a culture of experimentation to unlock never
@@ -68,7 +68,7 @@
               and the products and services designed to bring them together.
             </p>
           </b-col>
-          <b-col cols="12" lg="6" class="about-col" data-aos="fade-right">
+          <b-col cols="12" lg="6" class="about-col" data-aos="fade-up">
             <h4>4. Collaboration:</h4>
             <p>
               Breaking silos means understanding we don’t know everything and
