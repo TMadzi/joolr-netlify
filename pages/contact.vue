@@ -10,7 +10,11 @@
             <h1 class="contact-text">
               We always have time for the things you put first.
             </h1>
-            <b-form class="contact-form" method="POST" netlify>
+            <b-form
+              data-bss-recipient="fc6a6e5dddc51bfb68ee2d26bfb08c3f"
+              data-bss-subject="New Jool'r Email"
+              class="contact-form"
+            >
               <b-form-group
                 id="input-group-2"
                 label="First Name:"
