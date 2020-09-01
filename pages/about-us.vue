@@ -28,7 +28,7 @@
     <div class="about-middle">
       <b-container>
         <h1 class="vision-heading" data-aos="fade-up">Our Vision</h1>
-        <p class="vision-text">
+        <p class="vision-text" data-aos="fade-up">
           To harness the power of creativity and technology to help African
           brands surpass expectations.
         </p>
@@ -39,7 +39,7 @@
         <div class="centered-div" data-aos="fade-up">
           <b-img
             src="~/assets/images/about-img-2.png"
-            class="about-image-2"
+            class="about-image-2" data-aos="fade-up"
           ></b-img>
         </div>
         <b-row class="mt-4 pt-4 mb-4 pb-4">

@@ -8,7 +8,7 @@
           </b-col>
           <b-col cols="12" lg="7" class="mt-2">
             <b-row>
-              <b-col cols="12" lg="6" class="service-col">
+              <b-col cols="12" lg="6" class="service-col" data-aos="fade-up">
                 <h3>Marketing and analytics</h3>
                 <p class="service-text">
                   Your marketing dollars support diverse activities and
@@ -19,7 +19,7 @@
                   customers.
                 </p>
               </b-col>
-              <b-col cols="12" lg="6" class="service-col">
+              <b-col cols="12" lg="6" class="service-col" data-aos="fade-up">
                 <h3>Technology</h3>
                 <p class="service-text">
                   No matter the solution, a tech stack must be adaptable and
@@ -30,7 +30,7 @@
                   users and your business.
                 </p>
               </b-col>
-              <b-col cols="12" lg="6" class="service-col">
+              <b-col cols="12" lg="6" class="service-col" data-aos="fade-up">
                 <h3>Brand Management</h3>
                 <p class="service-text">
                   With a focus on client engagement and
@@ -39,7 +39,7 @@
                   convey its most authentic and memorable voice to your market.
                 </p>
               </b-col>
-              <b-col cols="12" lg="6" class="service-col">
+              <b-col cols="12" lg="6" class="service-col" data-aos="fade-up">
                 <h3>Creative Design</h3>
                 <p class="service-text">
                   We harness the power of creativity to craft stunning,
@@ -58,11 +58,11 @@
       <b-container>
         <b-row>
           <b-col>
-            <h1 class="service-bottom-heading">Our Services</h1>
+            <h1 class="service-bottom-heading" data-aos="fade-up">Our Services</h1>
           </b-col>
         </b-row>
         <b-row>
-          <b-col lg="4" class="service-col">
+          <b-col lg="4" class="service-col" data-aos="fade-up">
             <h3 class="services-bottom-heading">Marketing and analytics</h3>
             <ul class="service-text">
               <li>A/B Testing</li>
@@ -72,7 +72,7 @@
               <li>Data Visualisation</li>
             </ul>
           </b-col>
-          <b-col lg="4" offset-lg="4" class="service-col service-right">
+          <b-col lg="4" offset-lg="4" class="service-col service-right" data-aos="fade-up">
             <h3 class="services-bottom-heading">Technology</h3>
             <ul class="service-text">
               <li>Web Design &amp; Ddevelopment</li>
@@ -82,7 +82,7 @@
               <li>Sofware as a Service</li>
             </ul>
           </b-col>
-          <b-col lg="4" class="service-col">
+          <b-col lg="4" class="service-col" data-aos="fade-up">
             <h3 class="services-bottom-heading">Brand Management</h3>
             <ul class="service-text">
               <li>Strategy</li>
@@ -92,7 +92,7 @@
               <li>Audio, Visual &amp; Digial Production</li>
             </ul>
           </b-col>
-          <b-col lg="4" offset-lg="4" class="service-col service-right">
+          <b-col lg="4" offset-lg="4" class="service-col service-right" data-aos="fade-up">
             <h3 class="services-bottom-heading">Creative Design</h3>
             <ul class="service-text">
               <li>Graphic Design</li>
