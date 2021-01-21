@@ -14,10 +14,12 @@
   },
   "dependencies": {
     "@bazzite/nuxt-optimized-images": "^0.4.0",
+    "@nuxt/content": "^1.11.1",
     "aos": "^3.0.0-beta.6",
     "bootstrap": "^4.1.3",
     "bootstrap-vue": "^2.0.0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.14.12",
+    "vue-pdf": "^4.2.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",

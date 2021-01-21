@@ -7,7 +7,8 @@
             <h1 class="about-heading" data-aos="fade-up">About Us</h1>
             <b-img
               src="~/assets/images/about-img.png"
-              class="about-image" data-aos="fade-up"
+              class="about-image"
+              data-aos="fade-up"
             ></b-img>
           </b-col>
           <b-col cols="12" lg="5" class="mt-2" data-aos="fade-up">
@@ -39,7 +40,8 @@
         <div class="centered-div" data-aos="fade-up">
           <b-img
             src="~/assets/images/about-img-2.png"
-            class="about-image-2" data-aos="fade-up"
+            class="about-image-2"
+            data-aos="fade-up"
           ></b-img>
         </div>
         <b-row class="mt-4 pt-4 mb-4 pb-4">

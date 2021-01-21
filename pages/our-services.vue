@@ -58,7 +58,9 @@
       <b-container>
         <b-row>
           <b-col>
-            <h1 class="service-bottom-heading" data-aos="fade-up">Our Services</h1>
+            <h1 class="service-bottom-heading" data-aos="fade-up">
+              Our Services
+            </h1>
           </b-col>
         </b-row>
         <b-row>
@@ -72,7 +74,12 @@
               <li>Data Visualisation</li>
             </ul>
           </b-col>
-          <b-col lg="4" offset-lg="4" class="service-col service-right" data-aos="fade-up">
+          <b-col
+            lg="4"
+            offset-lg="4"
+            class="service-col service-right"
+            data-aos="fade-up"
+          >
             <h3 class="services-bottom-heading">Technology</h3>
             <ul class="service-text">
               <li>Web Design &amp; Ddevelopment</li>
@@ -92,7 +99,12 @@
               <li>Audio, Visual &amp; Digial Production</li>
             </ul>
           </b-col>
-          <b-col lg="4" offset-lg="4" class="service-col service-right" data-aos="fade-up">
+          <b-col
+            lg="4"
+            offset-lg="4"
+            class="service-col service-right"
+            data-aos="fade-up"
+          >
             <h3 class="services-bottom-heading">Creative Design</h3>
             <ul class="service-text">
               <li>Graphic Design</li>
