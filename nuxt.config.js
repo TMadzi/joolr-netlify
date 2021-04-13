@@ -24,6 +24,7 @@ export default {
       }
     ],
   },
+  target: 'static',
   /*
    ** Customize the progress-bar color
    */
@@ -40,7 +41,7 @@ export default {
   plugins: [
     {
       src: 'plugins/aos.js',
-      ssr: false,
+      ssr: false
     },
   ],
   /*
@@ -56,7 +57,6 @@ export default {
   modules: [
     // Doc: https://bootstrap-vue.js.org
     'bootstrap-vue/nuxt',
-    '@bazzite/nuxt-optimized-images',
     '@nuxt/content'
   ],
   /*

@@ -193,7 +193,7 @@ ul {
   }
   .service-bottom {
     height: auto;
-    background-image: url('../assets/images/service-img.png');
+    background-image: url('~assets/images/service-img.png');
     background-position: center;
     background-size: cover;
     padding: 120px 80px 10px 80px;

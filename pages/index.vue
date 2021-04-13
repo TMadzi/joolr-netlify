@@ -28,7 +28,7 @@
 }
 
 .main-image {
-  background-image: url('../assets/images/main-img.png/');
+  background-image: url('~assets/images/main-img.png/');
   height: 65vh;
   width: 100%;
   background-repeat: no-repeat;
@@ -52,7 +52,7 @@
     font-weight: bold;
   }
   .main-image {
-    background-image: url('../assets/images/main-img.png/');
+    background-image: url('~assets/images/main-img.png/');
     height: 65vh;
     margin: 0 auto 100px auto;
     width: 90%;

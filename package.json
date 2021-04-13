@@ -1,7 +1,7 @@
 {
   "name": "joolr",
   "version": "1.0.0",
-  "description": "My incredible Nuxt.js project",
+  "description": "We are a creative marketing agency with technology at our core.",
   "author": "Tritechta",
   "private": true,
   "scripts": {
@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "@bazzite/nuxt-optimized-images": "^0.4.0",
-    "@nuxt/content": "^1.11.1",
     "aos": "^3.0.0-beta.6",
     "bootstrap": "^4.1.3",
     "bootstrap-vue": "^2.0.0",
