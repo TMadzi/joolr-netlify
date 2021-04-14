@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-container fluid>
-      <b-link to="/index">
+      <b-link to="/">
         <b-img src="~/assets/images/logo-4.svg/" alt="Joolr Logo" class="logo">
         </b-img>
       </b-link>

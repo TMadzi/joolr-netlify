@@ -82,8 +82,8 @@
           >
             <h3 class="services-bottom-heading">Technology</h3>
             <ul class="service-text">
-              <li>Web Design &amp; Ddevelopment</li>
-              <li>Enterprise Software Ddevelopment</li>
+              <li>Web Design &amp; Development</li>
+              <li>Enterprise Software Development</li>
               <li>Mobile App Development</li>
               <li>Custom Software</li>
               <li>Sofware as a Service</li>

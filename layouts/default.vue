@@ -1,13 +1,14 @@
 <template>
   <div>
     <b-container fluid>
-      <b-link to="/index">
+      <b-link to="/">
         <b-img src="~/assets/images/logo-2.svg/" alt="Joolr Logo" class="logo">
         </b-img>
       </b-link>
       <div class="navi-toggle">
         <b-button v-b-toggle.sidebar-right class="menu-btn">
-          MENU <span class="menu"><img src="assets\images\about-img-2.png"/></span>
+          MENU
+          <span class="menu"><img src="~/assets/images/menu.png"/></span>
         </b-button>
         <b-sidebar id="sidebar-right" title="" right backdrop shadow>
           <div class="px-3 py-2">

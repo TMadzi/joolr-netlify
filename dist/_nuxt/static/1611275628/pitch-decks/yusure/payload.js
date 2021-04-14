@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/pitch-decks/yusure", {data:[{}],fetch:[],mutations:void 0});

@@ -13,9 +13,6 @@ export default {
         content: "Jool'r is a Zimbabwean digital agency that is uniquely positioned to help you harness the power of technology and creativity to redefine how you market your business. In a time of disruptive digital transformation and shifting market conditions, we provide you with the support you need to derive quantifiable business value from your marketing efforts."
       }
     ],
-    serverMiddleware: [
-      { path: '/api/test', handler: '~/api/test' },
-    ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { 

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog", {data:[{blogs:[{slug:"how-to-operate-in-zimbabwe",description:"Learn how to use @nuxt\u002Fcontent.",title:"Introduction",img:"https:\u002F\u002Fres.cloudinary.com\u002Fdefmmlrqg\u002Fimage\u002Fupload\u002Fv1609160822\u002FElevate\u002Fwoman-chalk_vw4awm.jpg"}]}],fetch:[],mutations:void 0});
