@@ -13,9 +13,11 @@
           </b-col>
           <b-col cols="12" lg="5" class="mt-2" data-aos="fade-up">
             <p class="about-top-text">
-              Jool'r is uniquely positioned to help you harness the power of
-              technology and creativity to redefine how you market your
-              business.
+              Jool'r is uniquely positioned to harness the power of technology
+              and creativity to redefine to make a positive impact on the
+              African continent. In a time of disruptive digital transformation
+              and shifting market conditions, we seek to high impact solutions
+              that derive quantifiable business value from marketing efforts.
             </p>
             <p class="about-bottom-text" data-aos="fade-up">
               In a time of disruptive digital transformation and shifting market

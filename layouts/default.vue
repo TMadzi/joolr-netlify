@@ -17,7 +17,7 @@
                 >Services</b-nav-item
               >
               <b-nav-item class="navi-item" to="/our-services"
-                >Our Solutions</b-nav-item
+                >Solutions</b-nav-item
               >
               <!-- <b-nav-item class="navi-item" to="/blog">Blog</b-nav-item> -->
               <b-nav-item class="navi-item" to="/about-us">About</b-nav-item>

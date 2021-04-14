@@ -4,7 +4,8 @@
       <b-row>
         <b-col>
           <h1 class="top-header" data-aos="fade-up">
-            We are a creative marketing agency with technology at our core.
+            We are a creative, social impact marketing agency with technology at
+            our core.
           </h1>
         </b-col>
       </b-row>
