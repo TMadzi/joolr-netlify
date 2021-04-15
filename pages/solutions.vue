@@ -76,6 +76,41 @@
                   a back-up on Jool’r’s cloud service.
                 </p>
               </b-col>
+              <b-col cols="12" class="solution-col" data-aos="fade-up">
+                <b-img
+                  src="~/assets/images/wellwork.png"
+                  class="solution-image"
+                  data-aos="fade-up"
+                ></b-img>
+                <p class="solutions-text mt-2">
+                  WellWork enables Pension Funds and Life Assurers to create custom
+                  digital Wellness programmes for their corporate clients. The
+                  platform will generate health and wellness data on the employees
+                  under the pension or healthcare scheme, allowing for predictive
+                  analytics around disease mitigation, particularly with regards to
+                  noncommunicable diseases (NCDs). The data generated through the
+                  programme can assist in risk identification and mitigation enabling
+                  the business to be able to identify risk areas in advance, whilst
+                  mitigating against NCDs that can have an effect on early claims
+                  payouts and increased claims.
+                </p>
+              </b-col>
+              <b-col cols="12" class="solution-col" data-aos="fade-up">
+                <b-img
+                  src="~/assets/images/myne.png"
+                  class="solution-image"
+                  data-aos="fade-up"
+                ></b-img>
+                <p class="solutions-text mt-2">
+                  Myne is an investment and crowdfunding portal that connects the
+                  informal sector to potential investors and buyers. The platform,
+                  which is designed to be industry specific, allows project
+                  specifications to be uploaded and investors to connect directly
+                  to these businesses to creating lasting synergies. The platform
+                  harnesses the entrepreneurial spirit of Africa, whilst providing
+                  access to new markets through enhanced SEO and targeting.
+                </p>
+              </b-col>
             </b-row>
           </b-col>
         </b-row>
