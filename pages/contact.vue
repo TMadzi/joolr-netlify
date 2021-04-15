@@ -14,8 +14,11 @@
               name="contact"
               method="POST"
               netlify
+              netlify-honeypot="bot-field"
               class="contact-form"
             >
+              <!-- //Hidden input to check for bots -->
+              <input type="hidden" name="form-name" value="contact" />
               <b-form-group
                 id="input-group-2"
                 label="First Name:"
@@ -25,6 +28,7 @@
                   id="input-2"
                   class="contact-input"
                   required
+                  name="firstname"
                   placeholder="FIRST NAME"
                 ></b-form-input>
               </b-form-group>
@@ -37,6 +41,7 @@
                   id="input-3"
                   class="contact-input"
                   required
+                  name="lastname"
                   placeholder="LAST NAME"
                 ></b-form-input>
               </b-form-group>
@@ -50,6 +55,7 @@
                   type="email"
                   class="contact-input"
                   required
+                  name="email"
                   placeholder="EMAIL ADDRESS"
                 ></b-form-input>
               </b-form-group>
@@ -57,6 +63,7 @@
                 id="textarea-rows"
                 class="contact-input"
                 placeholder="MESSAGE"
+                name="message"
                 rows="4"
               ></b-form-textarea>
               <b-button type="submit" class="contact-btn">
