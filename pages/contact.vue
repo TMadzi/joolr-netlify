@@ -10,59 +10,59 @@
             <h1 class="contact-text">
               We always have time for the things you put first.
             </h1>
-            <b-form
+            <form
               name="contact"
               method="POST"
               data-netlify="true"
               class="contact-form"
             >
-              <b-form-group
+              <form-group
                 id="input-group-2"
                 label="First Name:"
                 label-for="input-2"
               >
-                <b-form-input
+                <input
                   id="input-2"
                   class="contact-input"
                   required
                   placeholder="FIRST NAME"
-                ></b-form-input>
-              </b-form-group>
-              <b-form-group
+                ><input>
+              </form-group>
+              <form-group
                 id="input-group-3"
                 label="Last Name:"
                 label-for="input-3"
               >
-                <b-form-input
+                <input
                   id="input-3"
                   class="contact-input"
                   required
                   placeholder="LAST NAME"
-                ></b-form-input>
-              </b-form-group>
-              <b-form-group
+                />
+              <form-group>
+              <form-group
                 id="input-group-1"
                 label="Email address:"
                 label-for="input-1"
               >
-                <b-form-input
+                <input
                   id="input-1"
                   type="email"
                   class="contact-input"
                   required
                   placeholder="EMAIL ADDRESS"
-                ></b-form-input>
-              </b-form-group>
-              <b-form-textarea
+                />
+              </form-group>
+              <textarea
                 id="textarea-rows"
                 class="contact-input"
                 placeholder="MESSAGE"
                 rows="4"
-              ></b-form-textarea>
-              <b-button type="submit" class="contact-btn">
+              ></textarea>
+              <button type="submit" class="contact-btn">
                 SEND MESSAGE
-              </b-button>
-            </b-form>
+              </button>
+            </form>
           </b-col>
         </b-row>
       </b-container>
