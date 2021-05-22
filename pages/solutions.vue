@@ -23,7 +23,7 @@
                   class="solution-image"
                   data-aos="fade-up"
                 ></b-img>
-                <p class="solutions-text mt-2">
+                <p class="solutions-text mt-2 mb-4">
                   Yu’sure is a social enterprise that seeks to tackle the
                   crippling condition of youth unemployment by providing young
                   people with the means to earn income through selling short and
@@ -36,6 +36,13 @@
                   brick-and-mortar presences in some of the most remote and
                   inaccessible areas in an African country.
                 </p>
+                <a
+                  href="https://yusure.io"
+                  target="blank"
+                  class="site-link"
+                >
+                  Visit Site
+                </a>
               </b-col>
               <b-col cols="12" class="solution-col" data-aos="fade-up">
                 <b-img
@@ -83,10 +90,10 @@
                   data-aos="fade-up"
                 ></b-img>
                 <p class="solutions-text mt-2">
-                  WellWork enables Pension Funds and Life Assurers to create custom
-                  digital Wellness programmes for their corporate clients. The
-                  platform will generate health and wellness data on the employees
-                  under the pension or healthcare scheme, allowing for predictive
+                  WellWork enables Pension Funds and Life Assurers to create
+                  custom digital Wellness programmes for their corporate
+                  clients. The platform will generate health and wellness data
+                  on the employees under the pension or healthcare scheme, allowing for predictive
                   analytics around disease mitigation, particularly with regards to
                   noncommunicable diseases (NCDs). The data generated through the
                   programme can assist in risk identification and mitigation enabling
@@ -125,6 +132,22 @@
   padding: 120px 20px 10px 20px;
 }
 
+.site-link{
+  background-color: #14a1c1;
+  color: white;
+  border: 2px solid #14a1c1;
+  font-weight: 600;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+.site-link:hover{
+  background-color: white;
+  color: #14a1c1;
+  text-decoration: none;
+  transition: 500ms all ease;
+
+}
 .solution-heading {
   line-height: 4.5rem;
   font-size: 4.5rem;
