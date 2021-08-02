@@ -29,7 +29,7 @@
 }
 
 .main-image {
-  background-image: url('~assets/images/main-img.png/');
+  background-image: url('https://res.cloudinary.com/defmmlrqg/image/upload/v1627928437/joolr/main-img_sudmf7.png');
   height: 65vh;
   width: 100%;
   background-repeat: no-repeat;

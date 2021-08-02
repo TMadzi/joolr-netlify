@@ -6,7 +6,7 @@
           <b-col cols="12" lg="7">
             <h1 class="about-heading" data-aos="fade-up">About Us</h1>
             <b-img
-              src="~/assets/images/about-img.png"
+              src="https://res.cloudinary.com/defmmlrqg/image/upload/v1627928439/joolr/about-img_vi3333.png"
               class="about-image"
               data-aos="fade-up"
             ></b-img>
@@ -41,7 +41,7 @@
       <b-container>
         <div class="centered-div" data-aos="fade-up">
           <b-img
-            src="~/assets/images/about-img-2.png"
+            src="https://res.cloudinary.com/defmmlrqg/image/upload/v1627928437/joolr/about-img-2_vr5v5u.png"
             class="about-image-2"
             data-aos="fade-up"
           ></b-img>
