@@ -5,7 +5,7 @@
         <b-col cols="12" md="6">
           <b-link to="/">
             <b-img
-              src="~/assets/images/logo-2.svg/"
+              src="~/assets/images/log-new.svg/"
               alt="Joolr Logo"
               class="logo-footer"
             >
@@ -58,7 +58,7 @@ footer {
 .logo-footer {
   height: auto;
   margin-top: 40px;
-  width: 120px;
+  width: 180px;
 }
 
 ul {

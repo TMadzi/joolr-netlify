@@ -2,7 +2,7 @@
   <div>
     <b-container fluid>
       <b-link to="/">
-        <b-img src="~/assets/images/logo-2.svg/" alt="Joolr Logo" class="logo">
+        <b-img src="~/assets/images/log-new.svg/" alt="Joolr Logo" class="logo">
         </b-img>
       </b-link>
       <div class="navi-toggle">
@@ -61,8 +61,8 @@ html {
 .logo {
   position: absolute;
   height: auto;
-  width: 120px;
-  left: 40px;
+  width: 140px;
+  left: 10px;
   top: 20px;
   z-index: 1;
 }
@@ -227,8 +227,8 @@ a:hover {
   .logo {
     position: absolute;
     height: auto;
-    width: 120px;
-    left: 130px;
+    width: 200px;
+    left: 80px;
     top: 20px;
     z-index: 1;
   }
