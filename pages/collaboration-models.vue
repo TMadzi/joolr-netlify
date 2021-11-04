@@ -167,7 +167,7 @@ h4 {
 @media only screen and (min-width: 992px) {
   .about-top {
     padding-top: 180px;
-    height: 100vh;
+    height: auto;
     background-color: white;
   }
 
