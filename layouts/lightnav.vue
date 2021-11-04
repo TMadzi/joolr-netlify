@@ -11,7 +11,7 @@
         </b-button>
         <b-sidebar id="sidebar-right" title="" right backdrop shadow>
           <div class="px-3 py-2">
-            <b-nav vertical class="w-25">
+            <b-nav vertical class="">
               <b-nav-item class="navi-item" to="/">Home</b-nav-item>
               <b-nav-item class="navi-item" to="/about-us">About</b-nav-item>
               <b-nav-item class="navi-item" to="/our-services"
@@ -99,7 +99,7 @@ html {
 }
 
 .navi-item {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   line-height: 1.25;
   margin-bottom: 1.5rem;
   display: inline-block;
@@ -203,7 +203,7 @@ a:hover {
     color: #35495e;
   }
   .navi-item {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     line-height: 1;
   }
 }

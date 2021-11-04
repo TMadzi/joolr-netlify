@@ -12,10 +12,10 @@
             <p class="vision-text" data-aos="fade-up">We understand that budgets and businesses are unique and that is why we have developed models for collaboration that work for you depending on your unique needs.</p>
 
           </b-col>
-          <b-col cols="12" lg="6" class="mt-2" data-aos="fade-up">
+          <b-col cols="12" lg="6" class="mt-2 text-center" data-aos="fade-up">
             <b-img
               src="https://res.cloudinary.com/defmmlrqg/image/upload/c_scale,w_700/v1635884726/joolr/colab_nuabvw.jpg"
-              class="about-image mt-4"
+              class="about-image mt-4 mx-auto"
               data-aos="fade-up"
             ></b-img>
           </b-col>
@@ -74,8 +74,8 @@
 }
 
 .about-heading {
-  font-size: 72px;
-  padding: 0 30px;
+  font-size: 48px;
+  padding: 10px 30px;
   color: #4a4a4a;
   outline: blue;
   margin-bottom: 1px;
@@ -155,6 +155,13 @@ h4 {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+  .about-heading {
+  font-size: 72px;
+  padding: 0 30px;
+  color: #4a4a4a;
+  outline: blue;
+  margin-bottom: 1px;
+}
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {

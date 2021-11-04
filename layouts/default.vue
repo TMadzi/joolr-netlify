@@ -100,7 +100,7 @@ html {
 }
 
 .navi-item {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   line-height: 1.25;
   margin-bottom: 1.5rem;
   display: inline-block;
