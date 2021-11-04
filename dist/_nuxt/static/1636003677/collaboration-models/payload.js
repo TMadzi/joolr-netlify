@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/collaboration-models", {data:[{}],fetch:[],mutations:void 0});

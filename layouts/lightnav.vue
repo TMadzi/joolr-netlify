@@ -2,7 +2,7 @@
   <div>
     <b-container fluid>
       <b-link to="/">
-        <b-img src="~/assets/images/logo-4.svg/" alt="Joolr Logo" class="logo">
+        <b-img src="https://res.cloudinary.com/defmmlrqg/image/upload/v1635880199/joolr/logo-white_c9p50e.png" alt="Joolr Logo" class="logo">
         </b-img>
       </b-link>
       <div class="navi-toggle">
@@ -13,14 +13,17 @@
           <div class="px-3 py-2">
             <b-nav vertical class="w-25">
               <b-nav-item class="navi-item" to="/">Home</b-nav-item>
+              <b-nav-item class="navi-item" to="/about-us">About</b-nav-item>
               <b-nav-item class="navi-item" to="/our-services"
                 >Services</b-nav-item
+              >
+              <b-nav-item class="navi-item" to="/collaboration-models"
+                >Collaboration</b-nav-item
               >
               <b-nav-item class="navi-item" to="/solutions"
                 >Solutions</b-nav-item
               >
               <!-- <b-nav-item class="navi-item" to="/blog">Blog</b-nav-item> -->
-              <b-nav-item class="navi-item" to="/about-us">About</b-nav-item>
               <b-nav-item class="navi-item" to="/contact">Contact</b-nav-item>
             </b-nav>
           </div>
@@ -215,7 +218,7 @@ a:hover {
   }
 
   .navi-item {
-    font-size: 3.5rem;
+    font-size: 3rem;
     line-height: 1.25;
     margin-bottom: 1.5rem;
     display: inline-block;

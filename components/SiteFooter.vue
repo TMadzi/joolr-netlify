@@ -2,7 +2,7 @@
   <footer>
     <b-container>
       <b-row>
-        <b-col cols="12" md="6">
+        <b-col cols="12" md="4">
           <b-link to="/">
             <b-img
               src="~/assets/images/log-new.svg/"
@@ -16,6 +16,12 @@
           <b-nav class="nav-bottom" vertical>
             <b-nav-item to="/">Home</b-nav-item>
             <b-nav-item to="/about-us">About</b-nav-item>
+          </b-nav>
+        </b-col>
+        <b-col cols="4" md="2">
+          <b-nav class="nav-bottom" vertical>
+            <b-nav-item to="/solutions">Solutions</b-nav-item>
+            <b-nav-item to="/collaboration-models">Collaboration</b-nav-item>
           </b-nav>
         </b-col>
         <b-col cols="4" md="2">

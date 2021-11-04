@@ -3,50 +3,33 @@
     <div class="service-top">
       <b-container>
         <b-row>
-          <b-col cols="12" lg="5">
+          <b-col cols="12" lg="4">
             <h1 class="service-heading">Our Services</h1>
           </b-col>
-          <b-col cols="12" lg="7" class="mt-2">
+          <b-col cols="12" lg="8" class="mt-2">
             <b-row>
               <b-col cols="12" lg="6" class="service-col" data-aos="fade-up">
-                <h3>Marketing and analytics</h3>
+                <h3>Integrated Campaigns</h3>
                 <p class="service-text">
-                  Your marketing dollars support diverse activities and
-                  audiences that demand a more sophisticated approach to
-                  maximising spend. Through the use of modern analytics
-                  technologies, to bring a data-driven approach to your
-                  marketing efforts that will excite the CFO and delight your
-                  customers.
+                  We create and execute participatory campaigns to engage supporters, consumers or employees.
                 </p>
               </b-col>
               <b-col cols="12" lg="6" class="service-col" data-aos="fade-up">
-                <h3>Technology</h3>
+                <h3>New Power Transformation</h3>
                 <p class="service-text">
-                  No matter the solution, a tech stack must be adaptable and
-                  grow with the pace of change. With a network of
-                  multi-disciplinary developers and engineers, we combine agile
-                  product development with the latest frameworks to reduce your
-                  technical debt and build scalable solutions that work for your
-                  users and your business.
+                  We help organisations bring new power methods and mindsets to their organisations, inside and out.
                 </p>
               </b-col>
               <b-col cols="12" lg="6" class="service-col" data-aos="fade-up">
-                <h3>Brand Management</h3>
+                <h3>Collaborative Innovation</h3>
                 <p class="service-text">
-                  With a focus on client engagement and
-                  eturn-on-Marketing-Investment, we are able to quantify the
-                  financial value of your brand and find every opportunity to
-                  convey its most authentic and memorable voice to your market.
+                  Identify the goals, issues, audiences, theories of change and supporter journeys that can create drive human-centred innovations.
                 </p>
               </b-col>
               <b-col cols="12" lg="6" class="service-col" data-aos="fade-up">
-                <h3>Creative Design</h3>
+                <h3>Purposeful Brands</h3>
                 <p class="service-text">
-                  We harness the power of creativity to craft stunning,
-                  intuitive and engaging expressions of your brand. Through our
-                  creative approach to problem solving, we start with the
-                  consideration of the people we are designing for and end with
-                  new solutions that are tailor-made to suit their needs.
+                  We develop strategy, narratives, and identities that launch movements; reframe and define organisations to transform Brand Purpose.
                 </p>
               </b-col>
             </b-row>
@@ -57,22 +40,11 @@
     <div class="service-bottom">
       <b-container>
         <b-row>
-          <b-col>
-            <h1 class="service-bottom-heading" data-aos="fade-up">
-              Our Services
-            </h1>
-          </b-col>
-        </b-row>
-        <b-row>
           <b-col lg="4" class="service-col" data-aos="fade-up">
-            <h3 class="services-bottom-heading">Marketing and analytics</h3>
-            <ul class="service-text">
-              <li>A/B Testing</li>
-              <li>Anova Analysis</li>
-              <li>Conjoint Analysis</li>
-              <li>Sentiment Analysis</li>
-              <li>Data Visualisation</li>
-            </ul>
+            <h3>Business Design</h3>
+            <p class="service-text">
+              We work with clients to develop new strategies for growth, designed around their Brand Purpose.
+            </p>
           </b-col>
           <b-col
             lg="4"
@@ -80,24 +52,16 @@
             class="service-col service-right"
             data-aos="fade-up"
           >
-            <h3 class="services-bottom-heading">Technology</h3>
-            <ul class="service-text">
-              <li>Web Design &amp; Development</li>
-              <li>Enterprise Software Development</li>
-              <li>Mobile App Development</li>
-              <li>Custom Software</li>
-              <li>Sofware as a Service</li>
-            </ul>
+                <h3>Performance Marketing</h3>
+                <p class="service-text">
+                  We combine brand stewardship with science and execution to deliver conversion-focused marketing solutions.
+                </p>
           </b-col>
           <b-col lg="4" class="service-col" data-aos="fade-up">
-            <h3 class="services-bottom-heading">Brand Management</h3>
-            <ul class="service-text">
-              <li>Strategy</li>
-              <li>Valuation</li>
-              <li>Content Development</li>
-              <li>Digital &amp; Social Media</li>
-              <li>Audio, Visual &amp; Digial Production</li>
-            </ul>
+                <h3>Digital Design &amp; Development</h3>
+                <p class="service-text">
+                  We design and develop digital experiences and platforms that drive empathy, participation, and action.
+                </p>
           </b-col>
           <b-col
             lg="4"
@@ -105,15 +69,10 @@
             class="service-col service-right"
             data-aos="fade-up"
           >
-            <h3 class="services-bottom-heading">Creative Design</h3>
-            <ul class="service-text">
-              <li>Graphic Design</li>
-              <li>Prototyping</li>
-              <li>Content Development</li>
-              <li>Human Centered Design</li>
-              <li>Corporate Identity</li>
-              <li>Asset Branding</li>
-            </ul>
+                <h3>Content</h3>
+                <p class="service-text">
+                  We produce graphics, videos, interactive experiences, installations, and other forms of creative content.
+                </p>
           </b-col>
         </b-row>
       </b-container>
@@ -186,17 +145,17 @@ ul {
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .service-top {
-    height: 100vh;
+    height: auto;
     background-color: #14a1c1;
     padding-top: 120px;
-    padding: 120px 80px 10px 80px;
+    padding: 120px 80px 80px 80px;
   }
   .service-bottom {
     height: auto;
     background-image: url('~assets/images/service-img.png');
-    background-position: center;
+    background-position: bottom;
     background-size: cover;
-    padding: 120px 80px 10px 80px;
+    padding: 100px 80px 80px 80px;
   }
   .service-heading {
     line-height: 5.5rem;

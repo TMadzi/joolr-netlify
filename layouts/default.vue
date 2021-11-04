@@ -12,16 +12,19 @@
         </b-button>
         <b-sidebar id="sidebar-right" title="" right backdrop shadow>
           <div class="px-3 py-2">
-            <b-nav vertical class="w-25">
+            <b-nav vertical class="w-40">
               <b-nav-item class="navi-item" to="/">Home</b-nav-item>
+              <b-nav-item class="navi-item" to="/about-us">About</b-nav-item>
               <b-nav-item class="navi-item" to="/our-services"
                 >Services</b-nav-item
+              >
+              <b-nav-item class="navi-item" to="/collaboration-models"
+                >Collaboration</b-nav-item
               >
               <b-nav-item class="navi-item" to="/solutions"
                 >Solutions</b-nav-item
               >
               <!-- <b-nav-item class="navi-item" to="/blog">Blog</b-nav-item> -->
-              <b-nav-item class="navi-item" to="/about-us">About</b-nav-item>
               <b-nav-item class="navi-item" to="/contact">Contact</b-nav-item>
             </b-nav>
           </div>
@@ -199,7 +202,7 @@ a:hover {
     color: #35495e;
   }
   .navi-item {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     line-height: 1;
   }
 }
@@ -213,7 +216,7 @@ a:hover {
   }
 
   .navi-item {
-    font-size: 3.5rem;
+    font-size: 3rem;
     line-height: 1.25;
     margin-bottom: 1.5rem;
     display: inline-block;
